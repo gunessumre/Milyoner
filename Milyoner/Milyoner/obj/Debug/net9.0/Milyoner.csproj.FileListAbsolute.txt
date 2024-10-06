@@ -1,0 +1,14 @@
+/Users/gunessumre/RiderProjects/UmreGunes/Milyoner/Milyoner/bin/Debug/net9.0/Milyoner
+/Users/gunessumre/RiderProjects/UmreGunes/Milyoner/Milyoner/bin/Debug/net9.0/Milyoner.deps.json
+/Users/gunessumre/RiderProjects/UmreGunes/Milyoner/Milyoner/bin/Debug/net9.0/Milyoner.runtimeconfig.json
+/Users/gunessumre/RiderProjects/UmreGunes/Milyoner/Milyoner/bin/Debug/net9.0/Milyoner.dll
+/Users/gunessumre/RiderProjects/UmreGunes/Milyoner/Milyoner/bin/Debug/net9.0/Milyoner.pdb
+/Users/gunessumre/RiderProjects/UmreGunes/Milyoner/Milyoner/obj/Debug/net9.0/Milyoner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gunessumre/RiderProjects/UmreGunes/Milyoner/Milyoner/obj/Debug/net9.0/Milyoner.AssemblyInfoInputs.cache
+/Users/gunessumre/RiderProjects/UmreGunes/Milyoner/Milyoner/obj/Debug/net9.0/Milyoner.AssemblyInfo.cs
+/Users/gunessumre/RiderProjects/UmreGunes/Milyoner/Milyoner/obj/Debug/net9.0/Milyoner.csproj.CoreCompileInputs.cache
+/Users/gunessumre/RiderProjects/UmreGunes/Milyoner/Milyoner/obj/Debug/net9.0/Milyoner.dll
+/Users/gunessumre/RiderProjects/UmreGunes/Milyoner/Milyoner/obj/Debug/net9.0/refint/Milyoner.dll
+/Users/gunessumre/RiderProjects/UmreGunes/Milyoner/Milyoner/obj/Debug/net9.0/Milyoner.pdb
+/Users/gunessumre/RiderProjects/UmreGunes/Milyoner/Milyoner/obj/Debug/net9.0/Milyoner.genruntimeconfig.cache
+/Users/gunessumre/RiderProjects/UmreGunes/Milyoner/Milyoner/obj/Debug/net9.0/ref/Milyoner.dll
